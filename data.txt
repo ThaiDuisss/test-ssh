@@ -1,0 +1,5 @@
+do xuan thaiNewClass{name=thaidz, age=12}NewClass{name=nhat, age=12}NewClass{name=the, age=12}NewClass{name=gioi, age=12}NewClass{name=vn, age=12}NewClass{name=thaidz, age=12}
+NewClass{name=nhat, age=12}
+NewClass{name=the, age=12}
+NewClass{name=gioi, age=12}
+NewClass{name=vn, age=12}
